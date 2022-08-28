@@ -1,0 +1,23 @@
+##########################################################################################################################
+##########################################################################################################################
+###########################################################################################################################
+#                                                                                                                        #
+#                                    Sistema de mineração                                                                #
+#                                   Desenvolvido por Princ                                                             #
+#                                                                                                                        #
+#            Este plugin foi feito com intuito de ajudar todos aqueles que não tem possiblidades                         #
+#     de adquirir um plugin de mineração assim mais complexo e bem feito como este aqui gratuito para todos.             #
+#                                                                                                                        #
+#                                                                                                                        #
+##########################################################################################################################
+##########################################################################################################################
+##########################################################################################################################
+#
+# Lista de permissõeses disponíveis do plugin;
+#
+# Para possuir acesso a uma mina utilize "mining.mine.(nome da mina)"
+#   exemplo: "mining.mine.ferro" (Jogador vai ter acesso há mina ferro.)
+#   
+# Caso seja um jogador com VIP para possuir acesso há Área VIP
+#   utilize a permissão "mining.vip"
+#

@@ -1,0 +1,9 @@
+name: SimpleMining
+author: Princ
+version: 1.0 - SNAPSHOP
+main: simple.mining.inicializer.Core
+commands:
+  mina:
+  minas:
+  vip:
+  buyvip:
